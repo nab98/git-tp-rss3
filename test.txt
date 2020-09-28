@@ -1,0 +1,5 @@
+droit : 644 
+rwx
+u (user)
+g (group)
+o (others)
